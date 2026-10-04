@@ -1,33 +1,127 @@
-<!-- BACKGROUND MATRIX -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=200&section=header&text=&fontSize=0" width="100%" />
+
+<img src="./assets/matrix-header.svg" alt="AUFAN FAUZI // Cybersecurity Engineer" width="100%"/>
+
+<a href="https://github.com/aufanfauzi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=760&height=50&lines=%3E+whoami+%E2%86%92+aufanfauzi;%3E+nmap+-sV+target+%E2%86%92+scanning...;%3E+python3+defend.py+--ai+%E2%86%92+protecting...;%3E+breaking+things+ethically_" alt="typing"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=aufanfauzi&label=TARGETS+SCANNED&color=00ff41&style=flat-square" alt="visitors"/>
+
 </div>
 
-<!-- FONT HACKER) -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=2000&pause=500&color=00FF00&background=00000000&center=true&vCenter=true&width=800&height=100&lines=%5B+AufanFauzi+%5D;Cybersecurity+Engineer;AI+Security+Specialist;SecOps+Enthusiast;Ethical+Hacker" alt="Typing SVG" />
-</div>
+> [!CAUTION]
+> **RESTRICTED ZONE.** Semua tools & PoC di sini untuk edukasi dan *authorized testing*. Jangan dipakai ke sistem yang bukan milik lo atau tanpa izin tertulis.
 
-<!-- MATRIX BACKGROUND IMAGE -->
+---
+
+## `$ whoami`
+
+```text
+┌──(fan4sec㉿kali)-[~]
+└─$ cat about.txt
+
+[+] role       : Cybersecurity Engineer · AI Security Specialist · SecOps Enthusiast
+[+] focus      : Cyber Security | AI Security | Security Operations (SecOps)
+[+] experience : penetration testing, vulnerability assessment, threat hunting
+[+] building   : defensive AI → anomaly detection, log analysis, incident response
+[+] learning   : Adversarial ML | LLM Red Teaming | Cloud Security (AWS/GCP)
+[+] mission    : bikin sistem yang aman, robust, dan bisa dipercaya — dari endpoint sampai AI model
+[+] location   : Tangerang Selatan, Indonesia
+
+┌──(aufan㉿kali)-[~]
+└─$ echo $MOTTO
+Breaking things ethically, defending systems intelligently, and building secure AI.
+```
+
+<img src="./assets/danger-banner.svg" alt="WARNING // RESTRICTED ZONE" width="100%"/>
+
+## `$ ls -la /opt/arsenal`
+
+```text
+[OFFENSIVE]   kali · burpsuite · metasploit · nmap · nuclei · sqlmap · wpscan · hydra
+[DEFENSIVE]   wireshark · splunk · elk-stack · suricata · snort · fail2ban · ossec
+[AI-SEC]      adversarial-ml · llm-security · model-poisoning-detection · isolation-forest · anomaly-detection
+[NET/CLOUD]   tcp/ip · dns · http(s) · vpn · firewall · aws · gcp · docker · kubernetes
+[CODE]        python · bash · powershell · sql · javascript · go · c
+```
+
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" height="150" />
+
+![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=00ff41)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41)
+![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=flat-square&logo=powershell&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00ff41)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00ff41)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=00ff41)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=00ff41)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=00ff41)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00ff41)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=00ff41)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=00ff41)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=00ff41)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=00ff41)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00ff41)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=00ff41)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff41)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ff41)
+![Postgres](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00ff41)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=00ff41)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=00ff41)
+
 </div>
 
 ---
 
-<!-- ABOUT ME -->
-## 🧠 About Me
+## `$ ./projects --list --status`
 
-```yaml
-name: AufanFauzi
-role: Cybersecurity Engineer
-specialization: AI Security
-focus_areas:
-  - AI Security & Adversarial ML
-  - SecOps & Threat Hunting
-  - Penetration Testing
-  - Cloud Security
-currently_learning:
-  - LLM Red Teaming
-  - Zero Trust Architecture
-mission: "Break ethically, defend intelligently, build securely."
+| Status | Project | Description | Tech |
+|:------:|---------|-------------|------|
+| 🟢 `ONLINE` | **AI Anomaly Detector** | Deteksi anomali jaringan pakai Isolation Forest + Z-Score, alert via Telegram | `Python` `Flask` `Telegram` |
+| 🟢 `ONLINE` | **OSINT Toolkit** | Recon, subdomain enum, threat intel automation | `Python` `Bash` |
+| 🟢 `ONLINE` | **Vulnerability Scanner** | Automated scanner dengan Nuclei + custom templates | `Python` `Nuclei` |
+
+```text
+[CLASSIFIED] more projects in the pipeline:
+  ├── Autonomous Pentest Agent
+  ├── RAG Security Scanner
+  ├── MCP Security Tester
+  ├── Federated Learning Security
+  ├── AI Model Watermarking System
+  └── Privacy-Preserving ML
+```
+
+---
+
+## `$ ./stats.sh --live`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=aufanfauzi&hide_border=false&include_all_commits=true&count_private=false&title_color=00ff41&text_color=9dffb5&icon_color=ff1e3c&bg_color=0d1117&border_color=00ff41"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aufanfauzi&hide_border=false&layout=compact&title_color=00ff41&text_color=9dffb5&bg_color=0d1117&border_color=00ff41"/>
+
+<img src="https://streak-stats.demolab.com/?user=aufanfauzi&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff1e3c&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=9dffb5&dates=9dffb5&border=00ff41"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=aufanfauzi&theme=matrix&no-frame=true&no-bg=true&margin-w=4"/>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=aufanfauzi&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+
+</div>
+
+---
+
+## `$ ping contact`
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41)](https://instagram.com/aufanfzi_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/aufanfauzi)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:fan4sec@gmail.com)
+
+```text
+root@kali:~# exit
+[!] connection closed. stay curious. stay legal.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=100&section=footer" width="100%"/>
+
+</div>
