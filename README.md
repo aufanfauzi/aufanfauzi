@@ -106,22 +106,3 @@ Breaking things ethically, defending systems intelligently, and building secure 
 <img src="https://github-contributor-stats.vercel.app/api?username=aufanfauzi&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
 </div>
-
----
-
-## `$ ping contact`
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41)](https://instagram.com/aufanfzi_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/aufanfauzi)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:fan4sec@gmail.com)
-
-```text
-root@kali:~# exit
-[!] connection closed. stay curious. stay legal.
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=100&section=footer" width="100%"/>
-
-</div>
