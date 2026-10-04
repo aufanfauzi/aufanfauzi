@@ -1,24 +1,33 @@
-# 💫 About Me:
-Hi, I'm AufanFauzi👋<br><br>### Cybersecurity Engineer · AI Security Specialist · SecOps Enthusiast<br><br>> Breaking things ethically, defending systems intelligently, and building secure AI.<br><br>---<br><br>🧠 About Me<br><br>🛡️ Fokus di **Cyber Security**, **AI Security**, dan **Security Operations (SecOps)**<br>🔍 Pengalaman di **penetration testing**, **vulnerability assessment**, dan **threat hunting**<br> 🤖 Bangun sistem **defensive AI** untuk deteksi anomali, log analysis, dan incident response<br> 🌱 Lagi mendalami **Adversarial ML**, **LLM Red Teaming**, dan **Cloud Security (AWS/GCP)**<br> 🎯 Misi: bikin sistem yang **aman**, **robust**, dan **bisa dipercaya** — dari endpoint sampai AI model<br> 📍 Based in Tangerang Selatan, Indonesia<br><br>---<br><br>## 🛡️ Cybersecurity Arsenal<br><br>**Offensive Security**<br>`Kali Linux` `Burp Suite` `Metasploit` `Nmap` `Nuclei` `SQLMap` `WPScan` `Hydra`<br><br>**Defensive Security**<br>`Wireshark` `Splunk` `ELK Stack` `Suricata` `Snort` `Fail2ban` `OSSEC`<br><br>**AI Security**<br>`Adversarial ML` `LLM Security` `Model Poisoning Detection` `Isolation Forest` `Anomaly Detection`<br><br>**Networking & Cloud**<br>`TCP/IP` `DNS` `HTTP/HTTPS` `VPN` `Firewall` `AWS` `GCP` `Docker` `Kubernetes`<br><br>**Programming**<br>`Python` `Bash` `PowerShell` `SQL` `JavaScript` `Go` `C`<br><br>---<br><br>## 🚀 Featured Security Projects<br><br>| Project | Description | Tech |<br>|---------|-------------|------|<br>| **AI Anomaly Detector** | Deteksi anomali jaringan pakai Isolation Forest + Z-Score, alert via Telegram | Python, Flask, Telegram |<br>| **OSINT Toolkit** | Recon, subdomain enum, threat intel automation | Python, Bash |<br>| **Vulnerability Scanner** | Automated scanner dengan Nuclei + custom templates | Python, Nuclei |<br>| **[Project Lain]** | Autonomous Pentest Agent | RAG Security Scanner | MCP Security Tester | Federated Learning Security | AI Model Watermaking System | Privacy-Preserving ML
+<!-- BACKGROUND MATRIX -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=200&section=header&text=&fontSize=0" width="100%" />
+</div>
 
+<!-- FONT HACKER) -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=45&duration=2000&pause=500&color=00FF00&background=00000000&center=true&vCenter=true&width=800&height=100&lines=%5B+AufanFauzi+%5D;Cybersecurity+Engineer;AI+Security+Specialist;SecOps+Enthusiast;Ethical+Hacker" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aufanfzi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aufanfauzi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fan4sec@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aufanfauzi&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=aufanfauzi&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aufanfauzi&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aufanfauzi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aufanfauzi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- MATRIX BACKGROUND IMAGE -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" height="150" />
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=aufanfauzi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ABOUT ME -->
+## 🧠 About Me
+
+```yaml
+name: AufanFauzi
+role: Cybersecurity Engineer
+specialization: AI Security
+focus_areas:
+  - AI Security & Adversarial ML
+  - SecOps & Threat Hunting
+  - Penetration Testing
+  - Cloud Security
+currently_learning:
+  - LLM Red Teaming
+  - Zero Trust Architecture
+mission: "Break ethically, defend intelligently, build securely."
