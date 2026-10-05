@@ -90,24 +90,6 @@ Breaking things ethically, defending systems intelligently, and building secure 
   └── Privacy-Preserving ML
 ```
 
----
-
-## `$ ./stats.sh --live`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=aufanfauzi&hide_border=false&include_all_commits=true&count_private=false&title_color=00ff41&text_color=9dffb5&icon_color=ff1e3c&bg_color=0d1117&border_color=00ff41"/>
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=aufanfauzi&hide_border=false&layout=compact&title_color=00ff41&text_color=9dffb5&bg_color=0d1117&border_color=00ff41"/>
-
-<img src="https://streak-stats.demolab.com/?user=aufanfauzi&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff1e3c&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=9dffb5&dates=9dffb5&border=00ff41"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aufanfauzi&theme=matrix&no-frame=true&no-bg=true&margin-w=4"/>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=aufanfauzi&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-
-</div>
-
----
 
 <div align="center">
 
